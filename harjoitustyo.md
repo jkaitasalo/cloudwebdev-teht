@@ -18,9 +18,9 @@ Sivusto toimii parhaiten desktopilla, eri kokoisilla näytöillä. Olen valinnut
 
 Sivusto on testattu uusimmilla selaimilla:
 
-Google Chrome - Toimii
-Mozilla Firefox - Toimii
-Microsoft Edge - Toimii
+- Google Chrome - Toimii
+- Mozilla Firefox - Toimii
+- Microsoft Edge - Toimii
 
 
 
