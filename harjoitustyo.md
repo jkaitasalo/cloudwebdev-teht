@@ -14,7 +14,7 @@ Sivusto toimii parhaiten desktopilla, eri kokoisilla näytöillä. Olen valinnut
 
 
 
-## Toimivuus selaimillla
+## Toimivuus
 
 Sivusto on testattu uusimmilla selaimilla:
 
@@ -24,9 +24,9 @@ Sivusto on testattu uusimmilla selaimilla:
 
 
 
-## Sivujen Latautumisaika
+## Latausaika
 
-Sivuston latautumisajat on testattu PageSpeed Insights -työkalulla. Ennen MUI-kirjaston lisäämistä latausajat olivat hieman nopeampia, mutta ero ei ollut merkittävä. MUI-kirjaston integrointi on kuitenkin parantanut käyttöliittymän toiminnallisuuksia ja visuaalista ilmettä. Nopeudet ovat erinomaiset niin tietokoneella kuin mobiililaitteilla. Testitulokset osoittavat, että sivusto latautuu nopeasti, mikä parantaa käyttökokemusta ja vähentää käyttäjien odotusaikoja.
+Sivuston latautumisajojen testaukseen käytin [PageSpeed Insights](https://pagespeed.web.dev/) sivustoa. Sivusto latautuu suhteellisen nopeasti, ottaen huomioon kuvien koon. Kuvien kokoa pienentämällä saisi parannettua sivuston nopeutta.
 
 
 ![image](https://github.com/user-attachments/assets/79a0960c-22cc-464b-87ab-cb8f102a3cb6)
