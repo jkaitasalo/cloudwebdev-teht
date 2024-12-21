@@ -13,4 +13,4 @@ Kurssin tehtäväpalautukset löytyvät alta:
 - [Viikko 4](viikko4/index.html)
 - Viikko 5
 - Viikko 6
-- Harjoitustyö
+- [Harjoitustyö](harjoitustyo.md)
